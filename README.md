@@ -2,7 +2,7 @@
 example lambda with terraform
 
 setup dotnet source
-1 git clone 
+1 git clone <br />
 2 cd to first-lambda/myProject/src/aws-lambda-function
 3 run command dotnet publish -c Release
 
